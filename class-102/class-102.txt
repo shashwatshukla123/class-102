@@ -1,0 +1,6 @@
+create a python program whch capture web cam image every few min. and uploads o the dropbox.
+this is security program for our PC where we will capture photo of anyone and uploads to dropbox.
+
+opencv is python liberary which can be used to capture images, manipulate images and preform image processing works.
+
+pip3 install opencv-python
